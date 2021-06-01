@@ -45,74 +45,79 @@
   "posts" : [
     {
       "id" : 0,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://raw.githubusercontent.com/omralmajsyn/Mystery-Mansion-Hints/main/a4.PNG",
       "state" : "free",
-      "title" : "Test titleomar",
-      "description" : "",
+      "title" : "Suspects: Mvstery Mansion Strategy guide",
+      "description" : "Suspects: Mystery Mansion is a social deduction game that takes a lot of its cues from Among Us. You’re either playing as a guest or a killer – guests need to complete tasks, killers need to, well, kill.There are a few twists here that keep things fresh and some additions that make things tougher. So we thought it was a good idea to write a strategy guide to help you out. Whether you’re just getting started or you’ve been playing a while, these hints, tips and tricks are definitely going to help you out.One important thing to remember is this – don’t be a jerk. Suspects: Mystery Mansion uses voice chat, so be calm and polite and don’t be rude. With that in mind, here are the five best hints, tips and cheats for Suspects: Mystery Mansion.",
       "written" : "Test written 0 <br>My written"
     },
     {
       "id" : 1,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://raw.githubusercontent.com/omralmajsyn/Mystery-Mansion-Hints/main/a1.PNG",
       "state" : "free",
-      "title" : "Test title 1",
-      "description" : "",
+      "title" : "Focus talk over people",
+      "description" : "Completing the tasks is the best way to succeed as a guest. Check the list often and make sure you’re always working towards getting them finished. Remember how you completed the tasks before and always look for quicker ways of doing them. Split up the tasks evenly and don’t all chase the same goal, otherwise you’re probably going to lose.
+",
       "written" : "Test written 1"
     },
     {
       "id" : 2,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://raw.githubusercontent.com/omralmajsyn/Mystery-Mansion-Hints/main/a2.PNG",
       "state" : "free",
-      "title" : "Test title 2",
-      "description" : "",
+      "title" : "Be a useful qhost ",
+      "description" : "It’s tempting to just shout and accuse when you’re discussing who the killer might be, but it’s a waste of time. Let other players talk and don’t talk over them. You’re all working together to get the same result, so even if you disagree give people the chance to share their opinions. Basically, be polite.
+",
       "written" : "Test written 2"
     },
     {
       "id" : 3,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://raw.githubusercontent.com/omralmajsyn/Mystery-Mansion-Hints/main/a3.PNG",
       "state" : "free",
-      "title" : "Test title 3",
-      "description" : "",
+      "title" : "Don it kill if theres a qroup",
+      "description" : "Even when you’re dead you can still complete tasks, even if you can’t help your team uncover the killer – it’d be a bit unfair, since you’re going to know who it is. Keep your focus on finishing the tasks and don’t dump a game just because you’ve been murdered.",
       "written" : "Test written 3"
     },
     {
       "id" : 4,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://raw.githubusercontent.com/omralmajsyn/Mystery-Mansion-Hints/main/a5.PNG",
       "state" : "free",
-      "title" : "Test title 4",
-      "description" : "",
+      "title" : "Use your bombs smartly",
+      "description" : "This might seem like common sense, but some killers will jump in and start slaughtering when there’s a couple of guests in close proximity. You’re showing your hand and letting one of the players know who you are – instead, pick guests off when they’re alone.",
       "written" : "Test written 4"
     },
     {
       "id" : 5,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://raw.githubusercontent.com/omralmajsyn/Mystery-Mansion-Hints/main/a7.PNG",
       "state" : "free",
-      "title" : "Test title 5",
-      "description" : "",
+      "title" : "Don’t just stick bombs in obvious places",
+      "description" : "Don’t just stick bombs in obvious places – that’s the perfect way to get them found. Think about the nooks and crannies on the map and try and use them to your advantage. If even one of the bombs goes off, you’re going to win, so don’t waste them.",
       "written" : "Test written 5"
     },
     {
       "id" : 6,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://raw.githubusercontent.com/omralmajsyn/Mystery-Mansion-Hints/main/a4.PNG",
       "state" : "free",
-      "title" : "Test title 6",
-      "description" : "",
+      "title" : "Suspects: Mvstery Mansion Strategy guide",
+      "description" : "Suspects: Mystery Mansion is a social deduction game that takes a lot of its cues from Among Us. You’re either playing as a guest or a killer – guests need to complete tasks, killers need to, well, kill.There are a few twists here that keep things fresh and some additions that make things tougher. So we thought it was a good idea to write a strategy guide to help you out. Whether you’re just getting started or you’ve been playing a while, these hints, tips and tricks are definitely going to help you out.One important thing to remember is this – don’t be a jerk. Suspects: Mystery Mansion uses voice chat, so be calm and polite and don’t be rude. With that in mind, here are the five best hints, tips and cheats for Suspects: Mystery Mansion.
+",
       "written" : "Test written 6"
     },
     {
       "id" : 7,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://raw.githubusercontent.com/omralmajsyn/Mystery-Mansion-Hints/main/a1.PNG",
       "state" : "vip",
-      "title" : "Test title 7",
-      "description" : "",
+      "title" : "Focus talk over people ",
+      "description" : "Completing the tasks is the best way to succeed as a guest. Check the list often and make sure you’re always working towards getting them finished. Remember how you completed the tasks before and always look for quicker ways of doing them. Split up the tasks evenly and don’t all chase the same goal, otherwise you’re probably going to lose.
+",
       "written" : "Test written 7"
     },
     {
       "id" : 8,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://raw.githubusercontent.com/omralmajsyn/Mystery-Mansion-Hints/main/a2.PNG",
       "state" : "vip",
-      "title" : "Test title 8",
-      "description" : "",
+      "title" : "Be a useful qhost ",
+      "description" : "It’s tempting to just shout and accuse when you’re discussing who the killer might be, but it’s a waste of time. Let other players talk and don’t talk over them. You’re all working together to get the same result, so even if you disagree give people the chance to share their opinions. Basically, be polite.
+",
       "written" : "Test written 8"
     }
   ]
