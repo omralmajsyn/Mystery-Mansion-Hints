@@ -26,8 +26,8 @@
     "mode_ads_rewarded" : "adcolony",
     "mode_button_ads_action" : "0",
     "unity" : {
-      "unity_app_id" : "",
-      "unity_banner_id" : "",
+      "unity_app_id" : "4155583",
+      "unity_banner_id" : "banner",
       "unity_interstitial_id" : "",
       "unity_rewarded_id" : ""
     },
