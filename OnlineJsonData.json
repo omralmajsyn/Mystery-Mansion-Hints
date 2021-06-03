@@ -1,9 +1,9 @@
 {
   "config" : {
     "adcolony" : {
-      "adcolony_app_id" : "",
-      "adcolony_interstitial_id" : "",
-      "adcolony_rewarded_id" : ""
+      "adcolony_app_id" : "app99fa0041960446acb1",
+      "adcolony_interstitial_id" : "vzdc8a3b8286d04eecad",
+      "adcolony_rewarded_id" : "vz6644a764d8a04e0b93"
     },
     "admob" : {
       "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
@@ -20,10 +20,10 @@
       "facebook_interstitial_id" : "",
       "facebook_native_id" : ""
     },
-    "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "admob",
+    "mode_ads_banner" : "unity",
+    "mode_ads_interstitial" : "adcolony",
     "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "admob",
+    "mode_ads_rewarded" : "adcolony",
     "mode_button_ads_action" : "0",
     "unity" : {
       "unity_app_id" : "",
